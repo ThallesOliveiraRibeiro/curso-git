@@ -7,7 +7,6 @@ namespace Seção_8_teste {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
             Console.WriteLine("Como voce esta hoje?");
-            Console.WriteLine("Thallao");
             Console.ReadLine();
             Console.WriteLine("------------------------------------");
         }
